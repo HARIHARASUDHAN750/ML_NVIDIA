@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.nemo
+*.onnx
+*.log
+temp_*
+.env
+models/
